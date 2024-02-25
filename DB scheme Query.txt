@@ -23,4 +23,4 @@ CREATE TABLE orders (
 );
 
 
-INSERT INTO products VALUES (101, 'Women's Grey Oversized Hoodies', 499, 'India');
+INSERT INTO products VALUES (101, "Women's Grey Oversized Hoodies", 499, 'India');
